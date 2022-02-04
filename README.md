@@ -1,4 +1,4 @@
-# BS5 - BSS Ebook-Landing
+# BS5 - BSS Ebook Landing page
 
 Demo: https://ebook.bss.design/
 
