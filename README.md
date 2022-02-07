@@ -1,6 +1,6 @@
 # BS5 - BSS Ebook Landing page
 
-Demo: https://ebook.bss.design/
+Demo: https://ebooklanding.netroad.hu/
 
 Landing oldal ebook-hoz.
 
